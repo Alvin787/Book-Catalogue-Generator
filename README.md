@@ -4,6 +4,7 @@ Given a book dataset file from Kaggle, outputs a book details and book index fil
 **book_dataset** is used by **Book_Class** and **Book_Data_Generator** 
 
 OUTPUTS:
+
 **book_index**
 - Contains one line of information of each book. 
 - Concise version
