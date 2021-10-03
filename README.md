@@ -9,6 +9,9 @@ OUTPUTS:
 - Contains one line of information of each book. 
 - Concise version
 
+![image](https://user-images.githubusercontent.com/30243117/135738920-273f3054-cd7d-4185-ada2-3423392ebbf5.png)
+
+
 **book_details** 
 - Contains detailed information of each book
 - Includes all data of a specific book such as description
